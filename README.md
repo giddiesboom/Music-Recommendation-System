@@ -53,4 +53,4 @@ Provides statistical insights on dataset features:
 ## Installation and Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/Gideon Olayinka/music-recommendation-system.git
+git clone https://github.com/giddiesboom/music-recommendation-system.git
